@@ -480,7 +480,7 @@ Average Cost for Couples
 
 
 
-.. image:: output_25_0.png
+![Top 3 Restaurants by Votes](Images/output_25_0.png)
 
 
 Average cost for two people based on table booking availability
@@ -552,8 +552,11 @@ Average cost for two people based on table booking availability
     plt.show()
 
 
+## Ratings Comparison – Online vs Offline
 
-.. image:: output_28_0.png
+![Ratings Comparison](Images/output_28_0.png)
+
+ 
 
 
    Restaurants that support **table booking have a higher average cost
