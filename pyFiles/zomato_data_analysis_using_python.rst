@@ -552,10 +552,6 @@ Average cost for two people based on table booking availability
     plt.show()
 
 
-## Ratings Comparison – Online vs Offline
-
-![Ratings Comparison](Images/output_28_0.png)
-
  
 
 
